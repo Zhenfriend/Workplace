@@ -1,1 +1,2 @@
-我是在云端编译的development文件，等一会你到公司开始工作了，就把我clone下来看看呗
+我是在云端编译的development文件，等一会你到公司开始工作了，就把我clone下来看看呗 我现在在公司，想把developmnet克隆下来但是失败了，git branch -a
+git checkout -b develpment origin/developmnet 没有用
